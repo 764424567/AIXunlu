@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 6df1786a0c751d34494a2cd7abe27603
+timeCreated: 1514455217
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: nv1:nv1:nv1
+    100002: nv1:nv1:nv1_1
+    100004: nv1:nv1:nv1_10
+    100006: nv1:nv1:nv1_11
+    100008: nv1:nv1:nv1_12
+    100010: nv1:nv1:nv1_13
+    100012: nv1:nv1:nv1_14
+    100014: nv1:nv1:nv1_15
+    100016: nv1:nv1:nv1_16
+    100018: nv1:nv1:nv1_17
+    100020: nv1:nv1:nv1_18
+    100022: nv1:nv1:nv1_19
+    100024: nv1:nv1:nv1_2
+    100026: nv1:nv1:nv1_20
+    100028: nv1:nv1:nv1_21
+    100030: nv1:nv1:nv1_22
+    100032: nv1:nv1:nv1_23
+    100034: nv1:nv1:nv1_24
+    100036: nv1:nv1:nv1_25
+    100038: nv1:nv1:nv1_26
+    100040: nv1:nv1:nv1_27
+    100042: nv1:nv1:nv1_28
+    100044: nv1:nv1:nv1_29
+    100046: nv1:nv1:nv1_3
+    100048: nv1:nv1:nv1_30
+    100050: nv1:nv1:nv1_31
+    100052: nv1:nv1:nv1_32
+    100054: nv1:nv1:nv1_33
+    100056: nv1:nv1:nv1_4
+    100058: nv1:nv1:nv1_5
+    100060: nv1:nv1:nv1_6
+    100062: nv1:nv1:nv1_7
+    100064: nv1:nv1:nv1_8
+    100066: nv1:nv1:nv1_9
+    100068: nv1:nv1:nv_1
+    100070: //RootNode
+    400000: nv1:nv1:nv1
+    400002: nv1:nv1:nv1_1
+    400004: nv1:nv1:nv1_10
+    400006: nv1:nv1:nv1_11
+    400008: nv1:nv1:nv1_12
+    400010: nv1:nv1:nv1_13
+    400012: nv1:nv1:nv1_14
+    400014: nv1:nv1:nv1_15
+    400016: nv1:nv1:nv1_16
+    400018: nv1:nv1:nv1_17
+    400020: nv1:nv1:nv1_18
+    400022: nv1:nv1:nv1_19
+    400024: nv1:nv1:nv1_2
+    400026: nv1:nv1:nv1_20
+    400028: nv1:nv1:nv1_21
+    400030: nv1:nv1:nv1_22
+    400032: nv1:nv1:nv1_23
+    400034: nv1:nv1:nv1_24
+    400036: nv1:nv1:nv1_25
+    400038: nv1:nv1:nv1_26
+    400040: nv1:nv1:nv1_27
+    400042: nv1:nv1:nv1_28
+    400044: nv1:nv1:nv1_29
+    400046: nv1:nv1:nv1_3
+    400048: nv1:nv1:nv1_30
+    400050: nv1:nv1:nv1_31
+    400052: nv1:nv1:nv1_32
+    400054: nv1:nv1:nv1_33
+    400056: nv1:nv1:nv1_4
+    400058: nv1:nv1:nv1_5
+    400060: nv1:nv1:nv1_6
+    400062: nv1:nv1:nv1_7
+    400064: nv1:nv1:nv1_8
+    400066: nv1:nv1:nv1_9
+    400068: nv1:nv1:nv_1
+    400070: //RootNode
+    4300000: nv1:nv1:nv_1
+    7400000: idle
+    7400002: run
+    7400004: walk
+    7400006: aboard
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: nv1:nv1:nv_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 400
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nv1:nv1:nv1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6/nv1:nv1:nv1_7
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12/nv1:nv1:nv1_13
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14/nv1:nv1:nv1_15
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20/nv1:nv1:nv1_21
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22/nv1:nv1:nv1_23
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27/nv1:nv1:nv1_28
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32/nv1:nv1:nv1_33
+        weight: 1
+      - path: nv1:nv1:nv_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 525
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nv1:nv1:nv1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6/nv1:nv1:nv1_7
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12/nv1:nv1:nv1_13
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14/nv1:nv1:nv1_15
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20/nv1:nv1:nv1_21
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22/nv1:nv1:nv1_23
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27/nv1:nv1:nv1_28
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32/nv1:nv1:nv1_33
+        weight: 1
+      - path: nv1:nv1:nv_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 490
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nv1:nv1:nv1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6/nv1:nv1:nv1_7
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12/nv1:nv1:nv1_13
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14/nv1:nv1:nv1_15
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20/nv1:nv1:nv1_21
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22/nv1:nv1:nv1_23
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27/nv1:nv1:nv1_28
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32/nv1:nv1:nv1_33
+        weight: 1
+      - path: nv1:nv1:nv_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aboard
+      takeName: Take 001
+      firstFrame: 540
+      lastFrame: 618
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nv1:nv1:nv1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_1
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_6/nv1:nv1:nv1_7
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_12/nv1:nv1:nv1_13
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_8/nv1:nv1:nv1_9/nv1:nv1:nv1_10/nv1:nv1:nv1_11/nv1:nv1:nv1_14/nv1:nv1:nv1_15
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_20/nv1:nv1:nv1_21
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_4/nv1:nv1:nv1_5/nv1:nv1:nv1_16/nv1:nv1:nv1_17/nv1:nv1:nv1_18/nv1:nv1:nv1_19/nv1:nv1:nv1_22/nv1:nv1:nv1_23
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_24/nv1:nv1:nv1_25/nv1:nv1:nv1_26/nv1:nv1:nv1_27/nv1:nv1:nv1_28
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32
+        weight: 1
+      - path: nv1:nv1:nv1/nv1:nv1:nv1_2/nv1:nv1:nv1_3/nv1:nv1:nv1_29/nv1:nv1:nv1_30/nv1:nv1:nv1_31/nv1:nv1:nv1_32/nv1:nv1:nv1_33
+        weight: 1
+      - path: nv1:nv1:nv_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

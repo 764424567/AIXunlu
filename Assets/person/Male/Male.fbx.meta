@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 519867621cffce947abfb82d9bc12dee
+timeCreated: 1514455205
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: nan1:nan1:nan1
+    100004: nan1:nan1:nan1_1
+    100006: nan1:nan1:nan1_10
+    100008: nan1:nan1:nan1_11
+    100010: nan1:nan1:nan1_12
+    100012: nan1:nan1:nan1_13
+    100014: nan1:nan1:nan1_14
+    100016: nan1:nan1:nan1_15
+    100018: nan1:nan1:nan1_16
+    100020: nan1:nan1:nan1_17
+    100022: nan1:nan1:nan1_18
+    100024: nan1:nan1:nan1_19
+    100026: nan1:nan1:nan1_2
+    100028: nan1:nan1:nan1_20
+    100030: nan1:nan1:nan1_21
+    100032: nan1:nan1:nan1_22
+    100034: nan1:nan1:nan1_23
+    100036: nan1:nan1:nan1_24
+    100038: nan1:nan1:nan1_25
+    100040: nan1:nan1:nan1_26
+    100042: nan1:nan1:nan1_27
+    100044: nan1:nan1:nan1_28
+    100046: nan1:nan1:nan1_29
+    100048: nan1:nan1:nan1_3
+    100050: nan1:nan1:nan1_30
+    100052: nan1:nan1:nan1_31
+    100054: nan1:nan1:nan1_32
+    100056: nan1:nan1:nan1_33
+    100058: nan1:nan1:nan1_4
+    100060: nan1:nan1:nan1_5
+    100062: nan1:nan1:nan1_6
+    100064: nan1:nan1:nan1_7
+    100066: nan1:nan1:nan1_8
+    100068: nan1:nan1:nan1_9
+    100070: nan1:nan1:nan_1
+    400000: //RootNode
+    400002: nan1:nan1:nan1
+    400004: nan1:nan1:nan1_1
+    400006: nan1:nan1:nan1_10
+    400008: nan1:nan1:nan1_11
+    400010: nan1:nan1:nan1_12
+    400012: nan1:nan1:nan1_13
+    400014: nan1:nan1:nan1_14
+    400016: nan1:nan1:nan1_15
+    400018: nan1:nan1:nan1_16
+    400020: nan1:nan1:nan1_17
+    400022: nan1:nan1:nan1_18
+    400024: nan1:nan1:nan1_19
+    400026: nan1:nan1:nan1_2
+    400028: nan1:nan1:nan1_20
+    400030: nan1:nan1:nan1_21
+    400032: nan1:nan1:nan1_22
+    400034: nan1:nan1:nan1_23
+    400036: nan1:nan1:nan1_24
+    400038: nan1:nan1:nan1_25
+    400040: nan1:nan1:nan1_26
+    400042: nan1:nan1:nan1_27
+    400044: nan1:nan1:nan1_28
+    400046: nan1:nan1:nan1_29
+    400048: nan1:nan1:nan1_3
+    400050: nan1:nan1:nan1_30
+    400052: nan1:nan1:nan1_31
+    400054: nan1:nan1:nan1_32
+    400056: nan1:nan1:nan1_33
+    400058: nan1:nan1:nan1_4
+    400060: nan1:nan1:nan1_5
+    400062: nan1:nan1:nan1_6
+    400064: nan1:nan1:nan1_7
+    400066: nan1:nan1:nan1_8
+    400068: nan1:nan1:nan1_9
+    400070: nan1:nan1:nan_1
+    4300000: nan1:nan1:nan_1
+    7400000: idle
+    7400002: walk
+    7400004: run
+    7400006: aboard
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: nan1:nan1:nan_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 400
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nan1:nan1:nan1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6/nan1:nan1:nan1_7
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12/nan1:nan1:nan1_13
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14/nan1:nan1:nan1_15
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20/nan1:nan1:nan1_21
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22/nan1:nan1:nan1_23
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27/nan1:nan1:nan1_28
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32/nan1:nan1:nan1_33
+        weight: 1
+      - path: nan1:nan1:nan_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 450
+      lastFrame: 490
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nan1:nan1:nan1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6/nan1:nan1:nan1_7
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12/nan1:nan1:nan1_13
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14/nan1:nan1:nan1_15
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20/nan1:nan1:nan1_21
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22/nan1:nan1:nan1_23
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27/nan1:nan1:nan1_28
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32/nan1:nan1:nan1_33
+        weight: 1
+      - path: nan1:nan1:nan_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 524
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nan1:nan1:nan1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6/nan1:nan1:nan1_7
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12/nan1:nan1:nan1_13
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14/nan1:nan1:nan1_15
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20/nan1:nan1:nan1_21
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22/nan1:nan1:nan1_23
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27/nan1:nan1:nan1_28
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32/nan1:nan1:nan1_33
+        weight: 1
+      - path: nan1:nan1:nan_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aboard
+      takeName: Take 001
+      firstFrame: 540
+      lastFrame: 612
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: nan1:nan1:nan1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_1
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_6/nan1:nan1:nan1_7
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_12/nan1:nan1:nan1_13
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_8/nan1:nan1:nan1_9/nan1:nan1:nan1_10/nan1:nan1:nan1_11/nan1:nan1:nan1_14/nan1:nan1:nan1_15
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_20/nan1:nan1:nan1_21
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_4/nan1:nan1:nan1_5/nan1:nan1:nan1_16/nan1:nan1:nan1_17/nan1:nan1:nan1_18/nan1:nan1:nan1_19/nan1:nan1:nan1_22/nan1:nan1:nan1_23
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_24/nan1:nan1:nan1_25/nan1:nan1:nan1_26/nan1:nan1:nan1_27/nan1:nan1:nan1_28
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32
+        weight: 1
+      - path: nan1:nan1:nan1/nan1:nan1:nan1_2/nan1:nan1:nan1_3/nan1:nan1:nan1_29/nan1:nan1:nan1_30/nan1:nan1:nan1_31/nan1:nan1:nan1_32/nan1:nan1:nan1_33
+        weight: 1
+      - path: nan1:nan1:nan_1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
